@@ -27,7 +27,7 @@ It should say you are on branch `writing`.
 3. Push this branch to GitHub: \
 git push -u origin writing
 
-4. Make a change to the line below in this file: /
+4. Make a change to the line below in this file: \
 St. Lucy's + Mechanical Engineering
 
 5. Add, commit, and push your changes: \
